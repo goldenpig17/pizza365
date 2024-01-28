@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pizza365/static/css/main.f6dd7eac.css",
+    "main.js": "/pizza365/static/js/main.7f5be90c.js",
+    "static/js/787.b7865dcf.chunk.js": "/pizza365/static/js/787.b7865dcf.chunk.js",
+    "static/media/anh_mon_4.jpg": "/pizza365/static/media/anh_mon_4.41f2020163722c61abf9.jpg",
+    "static/media/pizza_type_hawai.jpg": "/pizza365/static/media/pizza_type_hawai.c4ba365acb682981f5e2.jpg",
+    "static/media/anh_mon_2.jpg": "/pizza365/static/media/anh_mon_2.81254066dc8ad7f89cba.jpg",
+    "static/media/anh_mon_3.jpg": "/pizza365/static/media/anh_mon_3.3b81c91d4b92d9844436.jpg",
+    "static/media/anh_mon_1.jpg": "/pizza365/static/media/anh_mon_1.87a4952183d9e62a6f3d.jpg",
+    "static/media/pizza_type_hai_san.jpg": "/pizza365/static/media/pizza_type_hai_san.c9c03df53607bbda6b10.jpg",
+    "static/media/pizza_type_thit_nuong.jpg": "/pizza365/static/media/pizza_type_thit_nuong.325f6c71539307ba3c88.jpg",
+    "static/media/anh_mon_5.jpg": "/pizza365/static/media/anh_mon_5.56a2224ace3972121de4.jpg",
+    "static/media/anh_mon_6.jpg": "/pizza365/static/media/anh_mon_6.e3ec5c382ae29cc72bd0.jpg",
+    "static/media/anh_mon_7.jpg": "/pizza365/static/media/anh_mon_7.b8273a841ea383e7c614.jpg",
+    "index.html": "/pizza365/index.html",
+    "main.f6dd7eac.css.map": "/pizza365/static/css/main.f6dd7eac.css.map",
+    "main.7f5be90c.js.map": "/pizza365/static/js/main.7f5be90c.js.map",
+    "787.b7865dcf.chunk.js.map": "/pizza365/static/js/787.b7865dcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6dd7eac.css",
+    "static/js/main.7f5be90c.js"
+  ]
+}
